@@ -1,4 +1,8 @@
 git is a distributed version control system
 git is a free software
 
-hello everyone!
+hello everyone
+new add !
+
+new second add !
+
